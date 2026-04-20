@@ -1,0 +1,282 @@
+{
+  "collection": [
+    {
+      "title": "Wingspan",
+      "designer": "Elizabeth Hargrave",
+      "year": 2019,
+      "players": "1-5",
+      "playtime_minutes": "40-70",
+      "complexity": "medium",
+      "category": ["engine building", "set collection"],
+      "notes": "Gateway game that got me deep into the hobby. Beautiful production. Bird facts on every card."
+    },
+    {
+      "title": "Terraforming Mars",
+      "designer": "Jacob Fryxelius",
+      "year": 2016,
+      "players": "1-5",
+      "playtime_minutes": "90-150",
+      "complexity": "medium-heavy",
+      "category": ["engine building", "resource management"],
+      "notes": "My favorite heavy game. So many paths to victory. Every corporation feels different."
+    },
+    {
+      "title": "Ticket to Ride",
+      "designer": "Alan R. Moon",
+      "year": 2004,
+      "players": "2-5",
+      "playtime_minutes": "45-75",
+      "complexity": "light",
+      "category": ["network building", "set collection"],
+      "notes": "The perfect intro game. Teach it in 10 minutes, plays in an hour, everyone has fun."
+    },
+    {
+      "title": "Pandemic",
+      "designer": "Matt Leacock",
+      "year": 2008,
+      "players": "2-4",
+      "playtime_minutes": "45-60",
+      "complexity": "medium",
+      "category": ["cooperative", "strategy"],
+      "notes": "The cooperative game. Plays very differently depending on player count. Love the tension."
+    },
+    {
+      "title": "Azul",
+      "designer": "Michael Kiesling",
+      "year": 2017,
+      "players": "2-4",
+      "playtime_minutes": "30-45",
+      "complexity": "light-medium",
+      "category": ["abstract", "pattern building"],
+      "notes": "Satisfying to play and to look at. The tile drafting is deceptively mean. Great at 2 or 4."
+    },
+    {
+      "title": "Gloomhaven: Jaws of the Lion",
+      "designer": "Isaac Childres",
+      "year": 2020,
+      "players": "1-4",
+      "playtime_minutes": "60-120",
+      "complexity": "heavy",
+      "category": ["dungeon crawler", "cooperative", "campaign"],
+      "notes": "Our campaign group's current obsession. The card system is brilliant. Jaws is a great entry point."
+    },
+    {
+      "title": "Catan",
+      "designer": "Klaus Teuber",
+      "year": 1995,
+      "players": "3-4",
+      "playtime_minutes": "60-90",
+      "complexity": "light-medium",
+      "category": ["negotiation", "resource management"],
+      "notes": "Where it all started. Still plays well. Has to be 4 players, 3 is too thin."
+    },
+    {
+      "title": "Root",
+      "designer": "Cole Wehrle",
+      "year": 2018,
+      "players": "2-4",
+      "playtime_minutes": "60-90",
+      "complexity": "heavy",
+      "category": ["asymmetric", "area control", "wargame"],
+      "notes": "Each faction plays like a completely different game. Steep learning curve but worth it. The Vagabond is chaos."
+    },
+    {
+      "title": "Codenames",
+      "designer": "Vlaada Chvátil",
+      "year": 2015,
+      "players": "2-8",
+      "playtime_minutes": "15-30",
+      "complexity": "light",
+      "category": ["party", "word game", "deduction"],
+      "notes": "The best party game I own. Works with any group. So much replay value."
+    },
+    {
+      "title": "Spirit Island",
+      "designer": "R. Eric Reuss",
+      "year": 2017,
+      "players": "1-4",
+      "playtime_minutes": "90-120",
+      "complexity": "heavy",
+      "category": ["cooperative", "strategy", "area control"],
+      "notes": "The best cooperative game I've played. Each spirit is wildly different. High complexity but earns it."
+    },
+    {
+      "title": "Betrayal at House on the Hill",
+      "designer": "Bruce Glassner et al",
+      "year": 2004,
+      "players": "3-6",
+      "playtime_minutes": "60-90",
+      "complexity": "light-medium",
+      "category": ["horror", "traitor", "exploration"],
+      "notes": "Some haunts are brilliant, some are broken. Chaotic and fun as a social experience regardless."
+    },
+    {
+      "title": "7 Wonders",
+      "designer": "Antoine Bauza",
+      "year": 2010,
+      "players": "2-7",
+      "playtime_minutes": "30-45",
+      "complexity": "medium",
+      "category": ["drafting", "civilization"],
+      "notes": "Scales beautifully. 7 players, 45 minutes. The simultaneous play makes it feel faster than it is."
+    },
+    {
+      "title": "Dominion",
+      "designer": "Donald X. Vaccarino",
+      "year": 2008,
+      "players": "2-4",
+      "playtime_minutes": "30-60",
+      "complexity": "medium",
+      "category": ["deck building"],
+      "notes": "Invented the deck-building genre. Still one of the best implementations. Incredible variety from the expansions."
+    },
+    {
+      "title": "Brass: Birmingham",
+      "designer": "Gavan Brown, Matt Tolman, Martin Wallace",
+      "year": 2018,
+      "players": "2-4",
+      "playtime_minutes": "60-120",
+      "complexity": "heavy",
+      "category": ["economic", "network building"],
+      "notes": "Regularly tops best-of lists and it deserves it. Every decision feels meaningful. Best at 3 or 4."
+    },
+    {
+      "title": "Mysterium",
+      "designer": "Oleksandr Nevskiy, Oleg Sidorenko",
+      "year": 2015,
+      "players": "2-7",
+      "playtime_minutes": "42-60",
+      "complexity": "light",
+      "category": ["cooperative", "deduction", "party"],
+      "notes": "The art is stunning and the gameplay is unlike anything else. The ghost player role is harder than it looks."
+    }
+  ],
+  "play_log": [
+    {
+      "game": "Wingspan",
+      "date": "2024-03-15",
+      "players": ["Alex", "Jordan", "Sam", "Morgan"],
+      "winner": "Jordan",
+      "notes": "Jordan's bird point strategy finally clicked. Alex was robbed by the end-of-round goals."
+    },
+    {
+      "game": "Terraforming Mars",
+      "date": "2024-03-08",
+      "players": ["Alex", "Sam"],
+      "winner": "Alex",
+      "notes": "Played Ecoline vs Mining Guild. Sam got heat flooded early and never recovered."
+    },
+    {
+      "game": "Spirit Island",
+      "date": "2024-02-24",
+      "players": ["Alex", "Jordan", "Morgan"],
+      "winner": "players (cooperative win)",
+      "notes": "Finally beat Difficulty 4! Lightning + Bringer + River. Came down to the last round."
+    },
+    {
+      "game": "Root",
+      "date": "2024-02-17",
+      "players": ["Alex", "Jordan", "Sam", "Morgan"],
+      "winner": "Sam",
+      "notes": "Sam played Vagabond and everyone ignored them until it was too late. Classic mistake."
+    },
+    {
+      "game": "Gloomhaven: Jaws of the Lion",
+      "date": "2024-02-10",
+      "players": ["Alex", "Jordan"],
+      "winner": "players (cooperative win)",
+      "notes": "Scenario 14. Brutal. Alex's Red Guard finally hit level 4."
+    },
+    {
+      "game": "Codenames",
+      "date": "2024-02-03",
+      "players": ["Alex", "Jordan", "Sam", "Morgan", "Casey", "Riley"],
+      "winner": "Alex and Sam's team",
+      "notes": "Best clue of the night: 'orbit, 3' connecting Moon, Saturn, and Hollywood. Worked perfectly."
+    },
+    {
+      "game": "Brass: Birmingham",
+      "date": "2024-01-27",
+      "players": ["Alex", "Jordan", "Sam"],
+      "winner": "Jordan",
+      "notes": "Jordan's canal era was untouchable. The rest of us never caught up in the rail era."
+    },
+    {
+      "game": "Azul",
+      "date": "2024-01-20",
+      "players": ["Alex", "Morgan"],
+      "winner": "Morgan",
+      "notes": "Morgan kept feeding Alex the 1-tiles on purpose. Psychological warfare."
+    },
+    {
+      "game": "Wingspan",
+      "date": "2024-01-13",
+      "players": ["Alex", "Jordan", "Sam"],
+      "winner": "Sam",
+      "notes": "Sam's tucking engine was unstoppable by round 3. Should have disrupted it earlier."
+    },
+    {
+      "game": "Pandemic",
+      "date": "2024-01-06",
+      "players": ["Alex", "Jordan", "Morgan"],
+      "winner": "players lost (epidemic cascade)",
+      "notes": "Three epidemics in the first two rounds. Never had a chance. Brutal start of the year."
+    },
+    {
+      "game": "Terraforming Mars",
+      "date": "2023-12-30",
+      "players": ["Alex", "Jordan", "Sam", "Morgan"],
+      "winner": "Morgan",
+      "notes": "New Year's Eve game. Morgan went full ocean tiles and it paid off. The rest of us fought over greenery."
+    },
+    {
+      "game": "Root",
+      "date": "2023-12-16",
+      "players": ["Alex", "Sam"],
+      "winner": "Alex",
+      "notes": "Two-player with Marquise vs Alliance. Tight game, came down to a single point."
+    },
+    {
+      "game": "7 Wonders",
+      "date": "2023-12-09",
+      "players": ["Alex", "Jordan", "Sam", "Morgan", "Casey"],
+      "winner": "Casey",
+      "notes": "Casey's science strategy with Babylon went uncontested. We need to start blocking that."
+    },
+    {
+      "game": "Spirit Island",
+      "date": "2023-11-25",
+      "players": ["Alex", "Jordan"],
+      "winner": "players lost (invaders won)",
+      "notes": "Tried Difficulty 5 for the first time. Got completely overrun. Need to rethink our combo."
+    },
+    {
+      "game": "Dominion",
+      "date": "2023-11-18",
+      "players": ["Alex", "Jordan", "Sam"],
+      "winner": "Alex",
+      "notes": "Village + Smithy kingdom. Drew through my deck twice in the last turn. Everything clicked."
+    },
+    {
+      "game": "Mysterium",
+      "date": "2023-11-11",
+      "players": ["Alex", "Jordan", "Sam", "Morgan", "Casey"],
+      "winner": "players (cooperative win)",
+      "notes": "Morgan as the ghost finally. Their visions were cryptic but we decoded them in the final round."
+    },
+    {
+      "game": "Gloomhaven: Jaws of the Lion",
+      "date": "2023-11-04",
+      "players": ["Alex", "Jordan"],
+      "winner": "players lost (exhausted)",
+      "notes": "Scenario 12. Both characters exhausted on the last room. Need better hand management."
+    },
+    {
+      "game": "Wingspan",
+      "date": "2023-10-28",
+      "players": ["Alex", "Jordan", "Sam", "Morgan"],
+      "winner": "Alex",
+      "notes": "Got lucky with the wetland bird combo. Cached food all game and it added up."
+    }
+  ]
+}

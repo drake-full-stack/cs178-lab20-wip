@@ -1,0 +1,137 @@
+[
+  {
+    "title": "Parasite",
+    "director": "Bong Joon-ho",
+    "year": 2019,
+    "genre": ["thriller", "dark comedy", "drama"],
+    "rating": 9.5,
+    "date_watched": "2020-02-15",
+    "notes": "Absolutely floored by this. The basement reveal is one of the best moments in cinema. Rewatched it immediately."
+  },
+  {
+    "title": "The Lighthouse",
+    "director": "Robert Eggers",
+    "year": 2019,
+    "genre": ["psychological horror", "drama"],
+    "rating": 8.5,
+    "date_watched": "2020-05-03",
+    "notes": "Weird and unsettling in the best way. Willem Dafoe's monologue is something else."
+  },
+  {
+    "title": "Knives Out",
+    "director": "Rian Johnson",
+    "year": 2019,
+    "genre": ["mystery", "comedy"],
+    "rating": 8.8,
+    "date_watched": "2020-01-10",
+    "notes": "Pure fun. The kind of movie that reminds you why you love movies. Great ensemble cast."
+  },
+  {
+    "title": "Everything Everywhere All at Once",
+    "director": "Daniel Kwan, Daniel Scheinert",
+    "year": 2022,
+    "genre": ["sci-fi", "action", "drama"],
+    "rating": 9.2,
+    "date_watched": "2022-04-08",
+    "notes": "Cried three times. Somehow a movie about a laundromat tax audit is the most emotionally resonant film I've seen in years."
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "director": "Wes Anderson",
+    "year": 2014,
+    "genre": ["comedy", "adventure", "drama"],
+    "rating": 9.0,
+    "date_watched": "2019-03-22",
+    "notes": "Peak Wes Anderson. Rewatched probably 4 times. Ralph Fiennes is perfect."
+  },
+  {
+    "title": "Hereditary",
+    "director": "Ari Aster",
+    "year": 2018,
+    "genre": ["horror"],
+    "rating": 8.2,
+    "date_watched": "2019-08-14",
+    "notes": "Genuinely disturbing. The dinner table scene. I think about it still."
+  },
+  {
+    "title": "Portrait of a Lady on Fire",
+    "director": "Céline Sciamma",
+    "year": 2019,
+    "genre": ["drama", "romance"],
+    "rating": 9.3,
+    "date_watched": "2021-02-14",
+    "notes": "One of the most visually beautiful films I've ever seen. Slow but never boring."
+  },
+  {
+    "title": "Arrival",
+    "director": "Denis Villeneuve",
+    "year": 2016,
+    "genre": ["sci-fi", "drama"],
+    "rating": 9.1,
+    "date_watched": "2020-11-30",
+    "notes": "The twist recontextualizes the entire film on rewatch. Great sci-fi asks real questions."
+  },
+  {
+    "title": "The Banshees of Inisherin",
+    "director": "Martin McDonagh",
+    "year": 2022,
+    "genre": ["drama", "dark comedy"],
+    "rating": 8.7,
+    "date_watched": "2023-01-05",
+    "notes": "A movie about a friendship ending that somehow feels deeply political. Beautifully bleak."
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "director": "George Miller",
+    "year": 2015,
+    "genre": ["action", "sci-fi"],
+    "rating": 8.9,
+    "date_watched": "2021-07-04",
+    "notes": "The greatest action movie ever made. Two hours of pure momentum. Furiosa carries everything."
+  },
+  {
+    "title": "Annihilation",
+    "director": "Alex Garland",
+    "year": 2018,
+    "genre": ["sci-fi", "horror"],
+    "rating": 8.4,
+    "date_watched": "2022-09-17",
+    "notes": "Doesn't explain itself and is better for it. Deeply weird. The lighthouse sequence is haunting."
+  },
+  {
+    "title": "Clueless",
+    "director": "Amy Heckerling",
+    "year": 1995,
+    "genre": ["comedy", "romance"],
+    "rating": 8.6,
+    "date_watched": "2023-06-10",
+    "notes": "Holds up completely. Sharper than it gets credit for. A genuine comfort rewatch."
+  },
+  {
+    "title": "The Father",
+    "director": "Florian Zeller",
+    "year": 2020,
+    "genre": ["drama"],
+    "rating": 8.8,
+    "date_watched": "2021-04-20",
+    "notes": "Anthony Hopkins gives the performance of his career. Structurally brilliant — puts you inside dementia."
+  },
+  {
+    "title": "Dune",
+    "director": "Denis Villeneuve",
+    "year": 2021,
+    "genre": ["sci-fi", "epic"],
+    "rating": 8.6,
+    "date_watched": "2021-10-22",
+    "notes": "The best adaptation of the book we could have hoped for. Visually staggering. Immediately wanted part 2."
+  },
+  {
+    "title": "Moonlight",
+    "director": "Barry Jenkins",
+    "year": 2016,
+    "genre": ["drama"],
+    "rating": 9.4,
+    "date_watched": "2020-06-15",
+    "notes": "Quiet and shattering. One of those films that changes how you see things after."
+  }
+]

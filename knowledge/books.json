@@ -1,0 +1,190 @@
+{
+  "read": [
+    {
+      "title": "The Dispossessed",
+      "author": "Ursula K. Le Guin",
+      "genre": ["sci-fi", "political philosophy"],
+      "year_read": 2021,
+      "rating": 9.5,
+      "notes": "Changed how I think about ownership and society. Le Guin uses sci-fi the way it should be used — to ask real questions."
+    },
+    {
+      "title": "Piranesi",
+      "author": "Susanna Clarke",
+      "genre": ["fantasy", "mystery"],
+      "year_read": 2022,
+      "rating": 9.3,
+      "notes": "Finished it in one sitting. The world-building is unlike anything I've read. Haunting and tender."
+    },
+    {
+      "title": "The Anthropocene Reviewed",
+      "author": "John Green",
+      "genre": ["essays", "nonfiction"],
+      "year_read": 2021,
+      "rating": 8.7,
+      "notes": "Unexpectedly moving. The essay on Auld Lang Syne wrecked me. Green is a better essayist than I expected."
+    },
+    {
+      "title": "Project Hail Mary",
+      "author": "Andy Weir",
+      "genre": ["sci-fi", "adventure"],
+      "year_read": 2022,
+      "rating": 9.1,
+      "notes": "The most fun I've had reading in years. Rocky is one of the best characters in recent sci-fi. Pure joy."
+    },
+    {
+      "title": "Normal People",
+      "author": "Sally Rooney",
+      "genre": ["literary fiction", "romance"],
+      "year_read": 2020,
+      "rating": 8.4,
+      "notes": "The dialogue is extraordinary — so much conveyed in what isn't said. Connell and Marianne feel completely real."
+    },
+    {
+      "title": "Klara and the Sun",
+      "author": "Kazuo Ishiguro",
+      "genre": ["sci-fi", "literary fiction"],
+      "year_read": 2021,
+      "rating": 8.9,
+      "notes": "Quietly devastating. Klara's perspective on humans is more insightful than most humans'. Ishiguro at his best."
+    },
+    {
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "genre": ["fiction", "fantasy"],
+      "year_read": 2021,
+      "rating": 7.8,
+      "notes": "Sweet and readable. The concept is better than the execution but it earns its ending."
+    },
+    {
+      "title": "Educated",
+      "author": "Tara Westover",
+      "genre": ["memoir", "nonfiction"],
+      "year_read": 2020,
+      "rating": 9.2,
+      "notes": "Incredible story of self-invention. Couldn't put it down. What Westover survived is almost unbelievable."
+    },
+    {
+      "title": "The Left Hand of Darkness",
+      "author": "Ursula K. Le Guin",
+      "genre": ["sci-fi", "political philosophy"],
+      "year_read": 2022,
+      "rating": 9.0,
+      "notes": "Even better than The Dispossessed in some ways. The exploration of gender and society is still radical decades later."
+    },
+    {
+      "title": "Tomorrow, and Tomorrow, and Tomorrow",
+      "author": "Gabrielle Zevin",
+      "genre": ["literary fiction", "gaming"],
+      "year_read": 2023,
+      "rating": 9.4,
+      "notes": "Surprised me completely. A love story that refuses to be a love story. The game design sections are genuinely insightful."
+    },
+    {
+      "title": "How to Do Nothing",
+      "author": "Jenny Odell",
+      "genre": ["essays", "nonfiction", "philosophy"],
+      "year_read": 2022,
+      "rating": 8.8,
+      "notes": "Dense but worth it. Made me think about attention as a resource more carefully than anything else I've read."
+    },
+    {
+      "title": "The Three-Body Problem",
+      "author": "Liu Cixin",
+      "genre": ["sci-fi", "hard sci-fi"],
+      "year_read": 2023,
+      "rating": 8.5,
+      "notes": "Ambitious and strange. The physics ideas are mind-bending. Sometimes the characters feel thin but the scale makes up for it."
+    },
+    {
+      "title": "Pachinko",
+      "author": "Min Jin Lee",
+      "genre": ["historical fiction", "literary fiction"],
+      "year_read": 2021,
+      "rating": 9.6,
+      "notes": "Multigenerational and sweeping. Every character is fully realized. Stayed with me for months."
+    },
+    {
+      "title": "A Gentleman in Moscow",
+      "author": "Amor Towles",
+      "genre": ["historical fiction"],
+      "year_read": 2022,
+      "rating": 9.0,
+      "notes": "Delightful in every sense. Warmly written. The Count is one of the most charming protagonists I've encountered."
+    },
+    {
+      "title": "Crying in H Mart",
+      "author": "Michelle Zauner",
+      "genre": ["memoir", "nonfiction"],
+      "year_read": 2023,
+      "rating": 9.2,
+      "notes": "Grief and food and cultural identity all braided together. Cried multiple times. Zauner's voice is extraordinary."
+    }
+  ],
+  "to_be_read": [
+    {
+      "title": "The Dark Forest",
+      "author": "Liu Cixin",
+      "genre": ["sci-fi", "hard sci-fi"],
+      "added": "2023-08-10",
+      "priority": "high",
+      "notes": "Sequel to Three-Body Problem. People say it's even better."
+    },
+    {
+      "title": "Babel",
+      "author": "R.F. Kuang",
+      "genre": ["fantasy", "historical fiction"],
+      "added": "2022-11-03",
+      "priority": "high",
+      "notes": "Everyone I trust has loved this. Dark academia with teeth."
+    },
+    {
+      "title": "Bewilderment",
+      "author": "Richard Powers",
+      "genre": ["literary fiction", "sci-fi"],
+      "added": "2023-01-15",
+      "priority": "medium",
+      "notes": "Loved The Overstory. This is supposed to be similar but more intimate."
+    },
+    {
+      "title": "The Sympathizer",
+      "author": "Viet Thanh Nguyen",
+      "genre": ["literary fiction", "historical fiction"],
+      "added": "2023-04-22",
+      "priority": "high",
+      "notes": "Won the Pulitzer. Multiple people have recommended this independently."
+    },
+    {
+      "title": "Demon Copperhead",
+      "author": "Barbara Kingsolver",
+      "genre": ["literary fiction"],
+      "added": "2023-02-08",
+      "priority": "medium",
+      "notes": "Pulitzer winner. David Copperfield retelling set in the opioid crisis."
+    },
+    {
+      "title": "Never Let Me Go",
+      "author": "Kazuo Ishiguro",
+      "genre": ["literary fiction", "sci-fi"],
+      "added": "2022-08-19",
+      "priority": "high",
+      "notes": "After Klara I want to read everything Ishiguro has written."
+    },
+    {
+      "title": "The Ministry for the Future",
+      "author": "Kim Stanley Robinson",
+      "genre": ["cli-fi", "sci-fi"],
+      "added": "2023-06-01",
+      "priority": "medium",
+      "notes": "Climate fiction. Dense and apparently more policy memo than novel in places but important."
+    },
+    {
+      "title": "Intermezzo",
+      "author": "Sally Rooney",
+      "genre": ["literary fiction"],
+      "added": "2024-10-01",
+      "priority": "high",
+      "notes": "New Rooney. After Normal People I'll read whatever she writes."
+    }
+  ]
+}
