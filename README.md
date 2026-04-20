@@ -4,8 +4,13 @@ Starter repository for Lab 20. You'll build a working AI agent that can answer n
 
 ## What's in this repo
 
-```
+
+```!
 cs178-lab20-starter/
+├── /knowledge
+|    ├── movies.json
+|    ├── boardgames.json
+|    ├── books.json
 ├── agent.py          ← the agent loop (scaffold — READ THIS FIRST, then write your system prompt)
 ├── tools.py          ← tool implementations (YOUR MAIN CODING TASK)
 ├── tool_schemas.py   ← tool descriptions for the model (YOUR WRITING TASK)
